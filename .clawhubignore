@@ -1,0 +1,5 @@
+# Only ship SKILL.md + essential files to ClawHub
+README.md
+README.zh.md
+SYNC_GUIDE.md
+scripts/github_sync.py
